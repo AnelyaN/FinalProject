@@ -1,0 +1,25 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanssc.css);
+
+@font-face {
+  font-family: "ProximaNova";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../font/ProximaNova-Light.eot");
+  src: url("../font/ProximaNova-Light.woff2") format("woff2"),
+       url("../font/ProximaNova-Light.woff") format("woff"),
+       url("../font/ProximaNova-Light.ttf") format("truetype"),
+       url("../font/ProximaNova-Light.svg#ProximaNova-Light") format("svg"),
+       url("../font/ProximaNova-Light.eot?#iefix") format("embedded-opentype");
+}
+@font-face {
+  font-family: "ProximaNova";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../font/ProximaNova-Extrabold.eot");
+  src: url("../font/ProximaNova-Extrabold.woff2") format("woff2"),
+       url("../font/ProximaNova-Extrabold.woff") format("woff"),
+       url("../font/ProximaNova-Extrabold.ttf") format("truetype"),
+       url("../font/ProximaNova-Extrabold.svg#ProximaNova-Extrabold") format("svg"),
+       url("../font/ProximaNova-Extrabold.eot?#iefix") format("embedded-opentype");
+}
